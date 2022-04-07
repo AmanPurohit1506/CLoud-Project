@@ -1,0 +1,5 @@
+"playlist_id","Is_Private","Playlist_Name","Songs_Id","User_Id"
+"6ecfafd0-8a35-4af6-a9e2-cbd79b3abeea","false","Playlist 1","[{""S"":""22e47f97-11ca-4c3c-8e77-f3068fddaf6e""},{""S"":""bb9e9105-6224-4a60-aabd-8d29cc4b1349""},{""S"":""0894ddc7-0c84-4f13-a037-ddcaa1134ec8""}]",""
+"1bf40ef1-0ee4-4252-8f9e-67e55efb38a3","true","New Rock Playlist","[{""S"":""0894ddc7-0c84-4f13-a037-ddcaa1134ec8""},{""S"":""c2573193-f333-49e2-abec-182915747756""}]","2e4c0d7e-b0e6-4739-b044-ee1d45872a7c"
+"8c4e0ccc-e79a-4e24-ac14-8236582f10bc","true","Rock Playlist","[{""S"":""0894ddc7-0c84-4f13-a037-ddcaa1134ec8""}]","2e4c0d7e-b0e6-4739-b044-ee1d45872a7c"
+"09d340e8-4a42-4f25-816e-db6d0536e2cf","true","Rock Playlist","[{""S"":""6ecfafd0-8a35-4af6-a9e2-cbd79b3abeea""},{""S"":""0894ddc7-0c84-4f13-a037-ddcaa1134ec8""}]","2e4c0d7e-b0e6-4739-b044-ee1d45872a7c"

@@ -1,0 +1,4 @@
+PlaylistName,SongsID, IsPrivate, UserID,UUID
+Playlist 1,"22e47f97-11ca-4c3c-8e77-f3068fddaf6e,bb9e9105-6224-4a60-aabd-8d29cc4b1349,0894ddc7-0c84-4f13-a037-ddcaa1134ec8",False,,6ecfafd0-8a35-4af6-a9e2-cbd79b3abeea
+Rock Playlist,"6ecfafd0-8a35-4af6-a9e2-cbd79b3abeea,0894ddc7-0c84-4f13-a037-ddcaa1134ec8",True,2e4c0d7e-b0e6-4739-b044-ee1d45872a7c,c2573193-f333-49e2-abec-182915747756
+Saurabh Thrid Playlist,"26e6462c-eacf-40bb-b4d0-d683966e2624,c2573193-f333-49e2-abec-182915747756,0894ddc7-0c84-4f13-a037-ddcaa1134ec8",False,,22e47f97-11ca-4c3c-8e77-f3068fddaf6e
