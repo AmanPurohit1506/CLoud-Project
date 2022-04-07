@@ -19,7 +19,7 @@ from flask import request
 import unique_code
 
 # The path to the file (CSV format) containing the sample data
-DB_PATH = '/music.csv'
+DB_PATH = '/data/music.csv'
 
 # The unique exercise code
 # The EXER environment variable has a value specific to this exercise
